@@ -13,7 +13,7 @@ This repository contains all the manual testing artifacts for the **[Project Nam
 
 ## ✅ Work Completed
 
-### 1. **Test Case Design**
+### 1. **Test Case Design Qase Tool**
 - Designed test cases based on functional requirements.
 - Covered **positive**, **negative**, **boundary**, and **UI** test scenarios.
 - Each test case includes:
@@ -24,16 +24,16 @@ This repository contains all the manual testing artifacts for the **[Project Nam
   - Expected Result
   - Status (Pass/Fail)
   
-<img src="" alt="Test Cases" width="700" height="400"/>
+<img src="https://github.com/sabina294/Project-03-Modern-Bank-Portal/blob/main/00-all-suite.png?raw=true" alt="Test Cases" width="700" height="400"/>
 
-### 2. **Test Execution**
+### 2. **Manager Registration**
 - Executed all test cases manually across supported browsers/devices.
 - Marked each test with actual results and status.
 - Attached screenshots for failed cases (if applicable).
 
-<img src="" alt="Test Cases" width="700" height="400"/>
+<img src="https://github.com/sabina294/Project-03-Modern-Bank-Portal/blob/main/01-Manager-Reg.png?raw=true" alt="Test Cases" width="700" height="400"/>
 
-### 3. **Bug Reporting**
+### 3. **Manager Login**
 - Logged defects for failed test cases.
 - Included:
   - Bug ID
@@ -44,12 +44,31 @@ This repository contains all the manual testing artifacts for the **[Project Nam
   - Status (New, Open, Fixed, Closed)
   - Screenshot (if available)
 
-<img src="" alt="Test Cases" width="700" height="400"/>
+<img src="https://github.com/sabina294/Project-03-Modern-Bank-Portal/blob/main/02-Manager-Login.png?raw=true" alt="Test Cases" width="700" height="400"/>
 
-### 4. **Test Summary Report**
+### 4. **Manager Dashboard**
 - Summarized total test cases, pass/fail status, defect trends.
 - Provided observations and improvement suggestions.
-![Alt text](Screenshots/filename.png)
+- 
+<img src="https://github.com/sabina294/Project-03-Modern-Bank-Portal/blob/main/03-Manager-Dashboard.png?raw=true" alt="Test Cases" width="700" height="400"/>
+
+### 5. **Manager Customer History**
+- Summarized total test cases, pass/fail status, defect trends.
+- Provided observations and improvement suggestions.
+- 
+<img src="https://github.com/sabina294/Project-03-Modern-Bank-Portal/blob/main/04-manager-cust-history.png?raw=true" alt="Test Cases" width="700" height="400"/>
+
+### 6. **All Transition**
+- Summarized total test cases, pass/fail status, defect trends.
+- Provided observations and improvement suggestions.
+- 
+<img src="https://github.com/sabina294/Project-03-Modern-Bank-Portal/blob/main/05-All-Transtion.png?raw=true" alt="Test Cases" width="700" height="400"/>
+
+### 8. **View Customer**
+- Summarized total test cases, pass/fail status, defect trends.
+- Provided observations and improvement suggestions.
+- 
+<img src="https://github.com/sabina294/Project-03-Modern-Bank-Portal/blob/main/06-View-Customer.png?raw=true" alt="Test Cases" width="700" height="400"/>
 
 ---
 
