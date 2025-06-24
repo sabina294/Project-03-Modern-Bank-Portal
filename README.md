@@ -64,10 +64,8 @@ This repository contains all the manual testing artifacts for the **[Project Nam
 
 ## 🧑‍💻 Author
 
-- **Name**: [Your Name]  
-- **Role**: QA Engineer  
-- **Email**: [your.email@example.com]  
-- **LinkedIn/GitHub**: [Links here]
+- **Email**: sabina.yeasmin.9701@gmail.com 
+- **GitHub**: https://github.com/sabina294/
 
 ---
 
