@@ -73,7 +73,7 @@ This repository contains all the manual testing artifacts for the **[Project Nam
 ---
 
 ## 🧰 Tools Used
-
+- Write test case tool used in /Qase/ 
 - Excel / Google Sheets for test artifacts  
 - Browsers: Chrome, Firefox, etc.  
 - [Any bug tracking tool if used, e.g., Jira, Bugzilla]  
